@@ -38,7 +38,7 @@ Summary got from conclusions done from each project
 1. Predicting prize with size;
 The visualisation below summarises that the price increases with subsequent increase in size of the apartments in the state of Capital Federal.
    
-fig 1.a : ![image](https://github.com/kamibrenda/Buenos-Aires-Price-Model/assets/42267047/944375ef-d794-42c4-a4b0-77560af7f787)
+fig 1.a : ![image](https://github.com/kamibrenda/Buenos-Aires-Price-Model/assets/42267047/c8cb6675-b98e-49b7-ac2a-24030e533f83)
 
 2. Predicting price with location
 The visualisation below summarises that the price increases with based on the location of houses located on the coastline demonstrated with the various visualisations below.
