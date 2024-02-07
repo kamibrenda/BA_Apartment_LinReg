@@ -1,4 +1,4 @@
-# Project Title : Buenos-Aires-Price-Model
+# Project Title : Buenos Aires Price Model
 
 ## Overview
 Project modules:
