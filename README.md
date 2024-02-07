@@ -19,7 +19,7 @@ Dependancies and prerequisites required for the project are;
 
 ## 1. Data Wrangling
 
-Load and clean the dataset to prepare it for analysis.
+Load and wrangle the datasets to prepare it for analysis.
 
 ## Data Analysis
 
@@ -49,5 +49,13 @@ fig 2.b: ![image](https://github.com/kamibrenda/Buenos-Aires-Price-Model/assets/
 
 fig 2.c: ![image](https://github.com/kamibrenda/Buenos-Aires-Price-Model/assets/42267047/586bfc10-2d42-47ce-8b77-08f52b5ca695)
 
-3. Predicting price with neighbourhood
-4. Predicting price with every other variable
+3. Predicting price with neighbourhood;
+The visualisation below summarises that more upper-class neighborhoods in this cases are predicted to have a more increase in price compared to working class neighborhoods.
+
+fig 3.a: ![image](https://github.com/kamibrenda/Buenos-Aires-Price-Model/assets/42267047/72757016-0575-4071-8061-d641bb8fd876)
+
+4. Predicting price with every other variable- size, location and neighbourhood
+The visualisation of this is demonstrated by use of an interactive dashboard that enables one to pick out either of the 15 neighbourhoods with the different latitudes and longitudes in relation to its location and the surface covered in metres squared as shown below.
+
+fig 4.a: ![image](https://github.com/kamibrenda/Buenos-Aires-Price-Model/assets/42267047/1a4fe889-cfab-45a0-9081-729f3e17479a)
+
