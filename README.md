@@ -54,7 +54,7 @@ The visualisation below summarises that more upper-class neighborhoods in this c
 
 fig 3.a: ![image](https://github.com/kamibrenda/Buenos-Aires-Price-Model/assets/42267047/72757016-0575-4071-8061-d641bb8fd876)
 
-4. Predicting price with every other variable- size, location and neighbourhood
+4. Predicting price with every other variable- size, location and neighbourhood;
 The visualisation of this is demonstrated by use of an interactive dashboard that enables one to pick out either of the 15 neighbourhoods with the different latitudes and longitudes in relation to its location and the surface covered in metres squared as shown below.
 
 fig 4.a: ![image](https://github.com/kamibrenda/Buenos-Aires-Price-Model/assets/42267047/1a4fe889-cfab-45a0-9081-729f3e17479a)
